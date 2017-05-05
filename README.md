@@ -2,7 +2,7 @@
 
 ## Mnemosyne is a novel.
 
-Mnemosyne is a novel about a bizarre future involving dome-covered cities, buggy mind reading, friendly AI's, nefarious cabals, terrifying church-corporation hybrids, blood gods, transhumanists, a singularity which might or might not have happened, and heroic historians.
+Mnemosyne is a novel about a bizarre future involving dome-covered cities, buggy mind reading, friendly AI's, not so friendly AI's, nefarious cabals, terrifying church-corporation hybrids, blood gods, transhumanists, bad (or good?) doctors, a singularity which might or might not have happened, intelligence augmenting viral plagues, and heroic historians.
 
 I'm putting it up here so that anyone can see the novel as it morphs over time and eventually reaches publishable status.
 
